@@ -1,0 +1,17 @@
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Microsoft/MS-DOS/blob/master/msdos-logo.png">
+
+# MS-DOS v1.25 和 v2.0 的原始码
+这个Repo包括了 MS-DOS v1.25 和 MS-DOS v2.0 的源码以及编译好的执行程序。
+
+我们在 [2014年的3月25日于计算机历史博物馆 (Computer History Museum)](http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/) 也分享过一样的档案。现在把这些档案放在repo 中，让大家可以更方便的搜寻，以及在其他文章或档案中参考，也让对于早期 PC 操作系统有兴趣的人可以进行探索实验。
+
+# 授权条款
+所有在这个 repo 的档案皆使用 [MIT授权](https://en.wikipedia.org/wiki/MIT_License) ，详细资料请参考这个 repo 根目录放的[授权文档](https://github.com/Microsoft/MS-DOS/blob/master/LICENSE.md)。
+
+# 贡献!
+这份源码放在这个 repo 的目的是要留一个历史记录，所以会保持不动。因此请**不要**送任何修改源码的 Pull Requests 来。但自行 fork 这个repo 并做自己的实验是沒问题的 😊 。
+
+但是呢，如果你想要新增或是修改一些和源码无关的档案(比方說這份 README) ，请送Pull Requests 过来，我们会审核并考虑采用。
+
+这个档案采用了 [微软开放源码管理办法](https://opensource.microsoft.com/codeofconduct/) 。如果需要更多资料，请参考[管理办法常见问题](https://opensource.microsoft.com/codeofconduct/faq/)或是联系 [opencode@microsoft.com](mailto:opencode@microsoft.com) 来进行进一步的咨询。
+译
